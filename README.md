@@ -57,16 +57,10 @@ And with that, all the questions asked by THM were answered.
 - **Personal email:** Ollie@example.com
 - **Site where email was found:** Twitter
 - **Holiday destination:** New York
-- **Password:** [Pon aquí la contraseña exacta]
+- **Password:** [pennYDr0pper.!]
 
 ## Tools Used
 - Online Metadata Viewer
 - Google Search
 - Twitter
 - Wigle.net
-
-## What I Learned
-- How to extract metadata from images using online tools
-- OSINT techniques for finding information across different platforms
-- The importance of checking hidden elements on web pages
-- How a single image can reveal so much information
